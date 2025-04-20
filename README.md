@@ -1,15 +1,14 @@
-# Laravel 11 CRUD Application Tutorial
+# Laravel 12 Ajax CRUD Example
 
-  Build an Laravel 11 CRUD Operation Step by Step example. you have to simply follow the below steps:
-  - Step 1: Install Laravel 11
-  - Step 2: MySQL Database Configuration
-  - Step 3: Create Migration
-  - Step 4: Create Form Request Validation Class
-  - Step 5: Create Controller and Model
-  - Step 6: Add Resource Route
-  - Step 7: Update AppServiceProvider
-  - Step 8: Add Blade Files
-  - Run Laravel 11 App
+  Build an Laravel 12 Ajax CRUD Step by Step example. you have to simply follow the below steps:
+- Step 1: Install Laravel 12
+- Step 2: MySQL Database Configuration
+- Step 3: Create Migration Table
+- Step 4: Install Yajra Datatable
+- Step 5: Create Route
+- Step 6: Create Controller and Model
+- Step 7: Add Blade Files
+- Step 8: Run Laravel Application
 
 ![laravel-12-ajax-crud-example](https://github.com/xpertphp/Laravel-12-Ajax-CRUD-Example/blob/main/laravel-12-ajax-crud-list.png)
 
